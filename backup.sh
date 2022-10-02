@@ -7,4 +7,4 @@ echo "Home for the current user is: $HOME"
 money=62000
 name="Bitcoin"
 echo "$name is trading $money dollars now"
-eho "New Comment"
+echo "New Comment"
