@@ -8,3 +8,4 @@ money=62000
 name="Bitcoin"
 echo "$name is trading $money dollars now"
 echo "New Comment"
+echo "New on new comment"
